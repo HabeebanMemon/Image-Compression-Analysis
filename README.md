@@ -38,5 +38,5 @@ Based on the implementation, the results highlight:
 3. View the generated `comparison_results.png` and console output for PSNR/SSIM values.
 
 ---
-**Developed by:** Zain Ul Abidin Arain
+**Developed by:** Habeeban Memon
 **Guided by:** Dr. Junaid Ahmed (Sukkur IBA University)
